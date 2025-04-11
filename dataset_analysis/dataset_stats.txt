@@ -1,0 +1,91 @@
+Dataset Statistics
+=================
+
+Total samples: 80788
+
+Numerical Features:
+  num_rooms:
+    min: 0.0
+    max: 1.0000000000000002
+    mean: 0.5017354062484527
+    std: 0.34160216932274085
+
+  bedrooms:
+    min: 0.0
+    max: 1.0
+    mean: 0.3744491756201416
+    std: 0.39778061178877916
+
+  bathrooms:
+    min: 0.0
+    max: 1.0
+    mean: 0.4161509135020052
+    std: 0.49291919286375113
+
+  corridors:
+    min: 0.0
+    max: 1.0
+    mean: 0.25171436351933457
+    std: 0.38259259355821046
+
+  total_area_sqm:
+    min: 0.0
+    max: 0.9999999999999999
+    mean: 0.5018366427962675
+    std: 0.22852712217579826
+
+  wall_thickness_cm:
+    min: 0.0
+    max: 1.0
+    mean: 0.5007662067296536
+    std: 0.2884526500847033
+
+  num_doors:
+    min: 0.0
+    max: 0.9999999999999999
+    mean: 0.5009955509658435
+    std: 0.27010021375342397
+
+  num_windows:
+    min: 0.0
+    max: 1.0
+    mean: 0.5011989050707671
+    std: 0.27090624920007284
+
+  floor_level:
+    min: 0.0
+    max: 1.0
+    mean: 0.5015905827598158
+    std: 0.3540614759728549
+
+  avg_room_distance_m:
+    min: 0.0
+    max: 1.0
+    mean: 0.4984519074906814
+    std: 0.289199578423548
+
+Binary Features:
+  kitchen:
+    count_1: 161576.0
+    percentage_1: 200.0
+
+  living_room:
+    count_1: 54031
+    percentage_1: 66.87998217557063
+
+  dining_room:
+    count_1: 20318
+    percentage_1: 25.149774719017675
+
+  study_room:
+    count_1: 13557
+    percentage_1: 16.78095756795564
+
+  balcony:
+    count_1: 40190
+    percentage_1: 49.74748725058177
+
+  storage_room:
+    count_1: 6761
+    percentage_1: 8.36881715106204
+
