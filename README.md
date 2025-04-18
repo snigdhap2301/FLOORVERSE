@@ -65,7 +65,7 @@ This project was a collaborative effort by a team of dedicated individuals, incl
 - [Ansh Prakash](https://github.com/anshprakash6397)
 - [Esther George Sam](https://github.com/esthersam07)
 - [Munish Thakur](https://github.com/menotthakur)
-- Naveen Singh
+- [Naveen Singh ](https://github.com/naveenks2002)
 
 
 
